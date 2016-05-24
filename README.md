@@ -1,2 +1,2 @@
-# PHP-Random-Image
-Simple Code to Generate Random Images
+# Random Image Generator
+Simple Code to Generate Random Images using PHP
