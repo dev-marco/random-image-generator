@@ -2,7 +2,7 @@
 
 	// NOTE: this code is optimized for understanding
 	// if you want performance, feel free to edit and make your own version
-	// Created by Marco: marco (at) marcoit (dot) com
+	// Created by Marco: marcoantonio (at) dcc (dot) ufmg (dot) com (dot) br
 
 	// Custom variables
 
